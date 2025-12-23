@@ -1,0 +1,18 @@
+{
+  "cookies": {
+    "_ga": {
+      "category": "Analytics",
+      "purpose": "Used by Google Analytics to distinguish users."
+    },
+    "unifiedid": {
+      "category": "Tracking",
+      "purpose": "Used for cross-site user identification."
+    }
+  },
+  "suspicious_sites": [
+    "bit.ly",
+    "tinyurl.com",
+    ".onion",
+    "pastebin.com"
+  ]
+}
