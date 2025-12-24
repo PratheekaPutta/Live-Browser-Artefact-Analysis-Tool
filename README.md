@@ -139,7 +139,7 @@ This tool brings **browser-level forensic visibility** to users and security lea
 - **Mohd Anas Ahmed**
   - Core architecture & logic
   - Assisted with browser compatibility enhancements
-  - Contributed code improvements for Opera browser support
+  - Code improvements for Opera browser support
 
 
 ---
