@@ -127,15 +127,20 @@ This tool brings **browser-level forensic visibility** to users and security lea
 - Portfolio and GitHub showcase
 
 ---
+## 👥 Contributions
 
-## 👩‍💻 Author
+- **Pratheeka Putta**
+  - Project idea & concept
+  - Core architecture & logic
+  - Cookie risk analysis engine
+  - Suspicious site detection
+  - UI/UX & documentation
 
-**Pratheeka** – Project lead, core idea, design, forensic logic, implementation, documentation
+- **Mohd Anas Ahmed**
+  - Core architecture & logic
+  - Assisted with browser compatibility enhancements
+  - Contributed code improvements for Opera browser support
 
-
-## 🤝 Contributions
-
-- **Anas** – Extension concept discussion and coding assistance
 
 ---
 
