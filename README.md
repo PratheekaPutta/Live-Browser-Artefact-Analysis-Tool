@@ -137,6 +137,7 @@ This tool brings **browser-level forensic visibility** to users and security lea
   - UI/UX & documentation
 
 - **Mohd Anas Ahmed**
+  - Browser-extension level suggestion related to cookies
   - Core architecture & logic
   - Assisted with browser compatibility enhancements
   - Code improvements for Opera browser support
